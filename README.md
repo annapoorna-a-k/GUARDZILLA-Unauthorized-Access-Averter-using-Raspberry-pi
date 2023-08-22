@@ -17,7 +17,7 @@ Guardzilla is a state-of-the-art intrusion entry detection robot that patrols yo
   <li>Motor Driver (Version L2981)</li>
   <li>Raspberry Pi (Version: 4)</li>
   <li>Webcam</li>
-  <li>Buzzer</li>
+  <li>GPIO Buzzer</li>
   <li>Chassis</li>
   <li>Power Bank</li>
   <li>Jumper Wires</li>
